@@ -3,6 +3,5 @@
 #### 😂我没什么技术
 #### 😁有事别找我
 #### 👌谢谢！
-##### 📧MFBL123@proton.me
-##### ✈️[@VIPKihh](https://t.me/VIPKihh)
+##### 📧dedejiaoao@gmail.com
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihh)](https://github.com/anuraghazra/github-readme-stats)
